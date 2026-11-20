@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDZ1NXFmNWlvbnltbGw3MDluazhxaXphcDZ3Z3N4dDNxNTNnc3FpdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HrEzYxOULdOjm/giphy.gif" width="100%" />
+</p>
+
+---
+
+
+
 
 <!--
 **03ay12/03ay12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
